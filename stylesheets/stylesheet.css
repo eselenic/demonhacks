@@ -1,9 +1,12 @@
 form#mc-embedded-subscribe-form.validate {
 	background: #151515 url("../images/bkg.png") 0 0;
+	background-color: #151515 url("../images/bkg.png") 0 0;
+	
 }
 
 div#mc_embed_signup {
 	background: #151515 url("../images/bkg.png") 0 0;
+	background-color: #151515 url("../images/bkg.png") 0 0;
 }
 
 body {
