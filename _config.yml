@@ -1,0 +1,158 @@
+# --------------
+# -- Settings --
+# --------------
+
+# Ignore this. This is only if you're hosting this in a sub-folder.
+# If you're using GitHub pages, they automatically override this with the right value.
+baseurl: ""
+
+# If you're using GitHub pages without a custom domain, this is "https://[github username].github.io"
+# If you're using GitHub pages with a custom domain, this is "http://[your domain]" (or https if you're using SSL)
+url: "https://aoganezo.github.io"
+
+# The ability to use custom themes.
+style:
+  theme: "original"
+
+# This will help you track who's visiting your website.
+tracking:
+  google_analytics: "UA-102955394-1"
+
+
+# This is Search Engine Optimization. It'll help your website look better on search.
+seo:
+  title:       "DemonHacks | October 2017 | DemonHacks "
+  description: "DemonHacks."
+  image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
+
+# Event information.
+event:
+  name: "Demon Hacks"
+  description: >
+    Disregard sleep; <br/>
+    Pursue Greatness;
+  date:        "October 27th - 29th"
+  location:    "Chicago, IL, United States"
+
+  trust_badge:
+    year:   "2018"  # season year
+    region: "na"    # "na" or "eu"
+    color:  "gray" # "white", "black", "gray", "red", "blue" or "yellow"
+
+  hero:
+    links:
+      #- text: "Apply"
+       # my_mlh:
+        #  client_id:    "0e2f9fc2921d3ad3e12ae900af630d09382e1b3dc1b5b50de2b01b70ad64dbee"
+         # redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
+      - text: "Sponsor"
+        href: "/#sponsors"
+
+  about:
+    description: >
+      Demon Hacks is a 36-hour hackathon hosted by DePaul University in Chicago, IL. DePaul's Loop campus is right next to the Art Institute 
+      of Chicago and Millenium Park. 
+
+  # Frequently asked questions.
+  faq:
+    - question: "Where is Chicago?"
+      answer: >
+        [Right here](http://bfy.tw/1CQf)
+    - question: "What is a hackathon?"
+      answer: >
+        A hackathon is an invention marathon. Students come together to build cool
+        software & hardware hacks over 24-48 hours. It's [very beginner friendly](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000#.cj21niskl).
+    - question: "How much does it cost?"
+      answer: >
+        Nothing, attending a hackathon is free!
+    - question: "Do I need to be a student to attend?"
+      answer: >
+        Yes. Only students who are currently enrolled at a college/university or
+        have graduated within the past 12 months are eligible to attend.
+    - question: "Where is the event?"
+      answer: >
+        The event is being hosted at DePaul University's loop campus. Primarily In the CDM building located at  243 S Wabash Ave, Chicago, IL 60604.
+    - question: "Will there be travel reimbursement?"
+      answer: >
+        [Click Here to find out](https://goo.gl/w9TwfR)
+    - question: "What is Major League Hacking?"
+      answer: >
+        Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
+        We work with over 200 Member Events and empower over 70,000 students every year.
+    - question: "Is there a code of conduct?"
+      answer: >
+        Yes there is, you can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
+    - question: "What should I bring to a Hackathon?"
+      answer: >
+        Laptop and charger; <br/>
+        Phone and charger; <br/>
+        We recommend that you bring anything you'd need for an extended stay away from home: <br/>
+        tolietries (deoderent, toobrush, toothpaste, etc...); <br/>  
+        sleeping bag; <br/> 
+        appropriate changes of clothes (remember, you're in the Windy City!);  <br/>
+
+  # Schedule:
+  schedule:
+    - day: "Friday"
+      event: [
+      "5:00 pm - 6:00 pm - Check-in         - (DePaul Center, Concourse level)", 
+      "6:00 pm - 6:45 pm - Kick-Off         - (DePaul Center, Concourse level)", 
+      "                  - (Migrate to CDM) - ", 
+      "6:45 pm - 8:00 pm - Dinner           - (CDM, 9th floor)", 
+      "8:00 pm           - Hacking Starts   - (CDM, Various classrooms)", 
+      "10:00 pm          - Activity         - (CDM, TBD)"]
+    - day: "Saturday"
+      event: [
+      "12:00am - (8am)  - Sleeping Area Available - (CDM, floor TBD)", 
+      "12:00am -        - Midnight Snack          - (CDM, 9th floor)", 
+      "7:30am  - 9:00am - Breakfast               - (CDM, 9th floor)", 
+      "TBD     -        - Keynote speaker         - (CDM, Theater)", 
+      "12:00pm - 1:00pm - Lunch                   - (CDM, 9th floor)", 
+      "TBD              - Keynote Speaker         - (CDM, Theater)", 
+      "6:00pm - 7:00pm  - Dinner                  - (CDM, 9th floor)", 
+      "10:00pm          - Activity                - (CDM, TBD)"]
+    - day: "Sunday"
+      event: ["12:00 am (- 8 am) - Sleeping Area Available (CDM, floor TBD)",
+      "12:00 am - Midnight Snack (CDM, 9th floor)",
+      "7:30 am - 9:00 am - Breakfast (CDM, 9th floor)",
+      "8 am - Hacking ends",
+      "9 am - 11 am - Project Expo (CDM, Various classrooms)",
+      "12:00 pm - 2:00 pm - Closing Ceremony (DePaul Center, Concourse level)"]
+
+# About Us section
+  us:
+    - person: "Megan Pecho"
+      image: >
+        ../images/megan.jpg
+    - person: "Artur Oganezov"
+      image: >
+        https://avatars0.githubusercontent.com/u/14896951?v=4&s=460
+    - person: "John Pridmore"
+      image: >
+        https://avatars0.githubusercontent.com/u/6945081?v=4&u=d5dfb4613c0bc17897ae920effe94067c8340a45&s=400
+    - person: "Shannon Linares"
+      image: >
+        ../images/shannon.jpg
+    
+  sponsors:
+    message: >
+        Sponsors coming soon! If you're interested in sponsoring, please email us at sponsor@demonhacks.com.
+  # This is the message you'll receive once you've registered.
+    
+    register:
+        message: >
+            You'll receive more information closer to the hackathon.
+
+# ----------------------------------------------------
+# -- Ignore this unless you know what you're doing. --
+# ----------------------------------------------------
+
+markdown: kramdown
+exclude:
+ - node_modules
+ - gulpfile.js
+ - Gemfile
+ - Gemfile.lock
+ - package.json
+ - README.md
+ - CNAME

@@ -1,0 +1,392 @@
+/*
+* RegistrationHacks Style File
+* http://bit.ly/1ywfhq7
+*/
+
+/* Open Sans Google Font */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:600,700);
+
+
+/* Montserrat Google Font */
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+/*
+ * Primary Blue: #44D5FF;
+ * Dark Blue: #0F2C34;
+ * Primary Pink: #FF7FA8;
+ */
+
+* {
+  font-family: 'Open Sans';
+  font-weight: 600;
+}
+
+body {
+  /*background-color: #0F2C34;*/
+/*   color: #951818; */
+}
+
+section {
+  overflow-x:hidden;
+}
+
+/*
+ * Trust Badge
+ */
+
+#mlh-trust-badge {
+  display: block;
+  max-width: 100px;
+  min-width: 60px;
+  position: fixed;
+  right: 50px;
+  top: 0;
+  width: 10%;
+  z-index: 10000;
+}
+
+/* 
+ * Hero Section
+ */
+
+.hero {
+  /* background-color: #F5699C;*/
+  /* real background image without artur's opacity diddling. :'(
+   * http://www.styledesign.de/images/referenzen/DeluxeBad24-LogoBig.png
+   */
+  width: 100%;
+  height: 100%;
+  background: url("../images/bg-chicago-large-100-opacity.png") center center no-repeat;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.4);
+  min-height: 110vh;
+  color: #951818;
+  /*&:before {
+    content: '';
+    position: absolute;
+    top:      0;
+    right:    0;
+    bottom:   0;
+    left:     0;
+    /*background-image: linear-gradient(to bottom right,#0B344C,#29AAF5);*/
+    /*opacity: .2;
+  }*/ 
+}
+
+section.about { /*REMOVE ONCE APPLICATION BUTTON IS ADDED BACK*/
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+section.faq {
+	padding-top: 0;
+}
+section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
+	padding-top: 0;
+}
+
+.hero img {
+  max-width: 400px;
+}
+
+.hero hr {
+  border-top: 15px solid #0F2C34;
+  margin-right: 75px;
+  position: relative;
+  top: -14px;
+}
+
+.hero .wrapper {
+  padding-top: 30vh;
+  min-width: 425px;
+}
+
+.hero .wrapper h1 {
+  display: inline-block;
+  font-size: 60px;
+  font-weight: 800;
+  letter-spacing: -2px;
+  padding: 10px 10px;
+  color: #951818;
+}
+
+.hero .wrapper h2 {
+  font-size: 35px;
+  font-weight: 400;
+  color: #951818;
+  text-shadow: white; 
+  margin-top: 0;
+}
+
+.hero .wrapper h3 {
+  font-size: 24px;
+  font-weight: 600;
+  padding-bottom: 15px;
+}
+
+.hero .buttons {
+	text-align: center;
+ }
+ 
+.hero .buttons a {
+  background: #fff;
+  border: 10px solid #0F2C34;
+  border-radius: 40px;
+  /*color: #0F2C34;*/
+  color: #951818; 
+  display: inline;
+  font-family: 'Montserrat';
+  font-size: 24px;
+  font-weight: 700;
+  padding: 10px 70px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.hero .buttons a:hover,
+.hero .buttons a:focus {
+  background-color: #0F2C34;
+  color: #fff;
+  transition: all 0.2s ease;
+}
+
+.hero .buttons a:not(:last-child) {
+  margin-right: 10px;
+}
+
+.topText {
+  background: rgba(169,169,169,0.8);
+  max-width:55%;
+  margin:75px auto;
+}
+
+/* 
+ * About Section
+ */
+
+.about {
+  border-width: 15px 0;
+  background-color: #fff;
+  padding: 0 0 130px 0;
+  position: relative;
+  /*color: #951818;*/
+}
+
+.about p {
+  color: #0F2C34;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.6em;
+  letter-spacing: -.3px;
+}
+
+.about p span {
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/*
+ * Info Section
+ */
+
+.info {
+  background-color: #fff;
+  margin-top: 15px;
+  padding: 100px 0;
+  position: relative; 
+}
+
+.info .item {
+  padding: 20px;
+}
+
+.info .item h1 {
+  font-family: 'Montserrat';
+  font-size: 45px;
+  font-weight: 700;
+  margin: 20px 0;
+}
+
+.info .item img {
+  max-width: 220px;
+}
+
+.info .item p {
+  font-size: 20px;
+}
+
+/*
+ * FAQ Section
+ */
+
+.faq {
+  background-color: #fff;
+  margin-top: 15px;
+  padding: 100px 0;
+  position: relative;
+}
+
+.faq h1 {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  margin: 30px 0;
+}
+
+.faq .question h2 {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.faq .question hr {
+  border-top: 8px solid #0F2C34;
+  margin: 20px 0;
+  width: 80px;
+}
+
+.faq .question p {
+  font-size: 18px;
+  line-height: 1.5em;
+}
+
+.faq img {
+  margin-bottom: -2px;
+  margin-top: 40px;
+  width: 300px;
+}
+
+/*
+ * Schedule Section
+ */
+
+.schedule {
+  background-color: #fff;
+  margin-top: 15px;
+  padding: 100px 0;
+  position: relative;
+}
+
+.schedule h1 {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  margin: 30px 0;
+}
+
+.schedule .dayLg {
+  font-size: 20px;
+  line-height: 1.5em;
+}
+
+.schedule .day {
+  font-size: 16px;
+  line-height: 1.5em;
+}
+
+.schedule .day .event {
+  font-size: 14px;
+  line-height: 1.5em;
+}
+/*
+ * about us section
+ */
+ 
+ .us h1 {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  margin: 30px 0;
+}
+
+.us {
+  background-color: #fff;
+  margin-top: 15px;
+  padding: 100px 0;
+  position: relative;
+}
+.us .person {
+  background-color: #fff;
+  margin-top: 15px;
+  /*padding: 100px 0;*/
+  position: relative;
+  max-height: 100%;
+}
+/*.us img {
+  /*float: relative;
+  max-height: 200px;
+}*/
+
+.us h3 {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  margin: 30px 0;
+}
+
+/*
+* Sponsors section
+*/
+.about h1 {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  margin: 30px 0;
+}
+
+.aboutSponsors {
+  background-color: #fff;
+  margin-top: 15px;
+  padding: 100px 0;
+  position: relative;
+}
+
+.aboutSponsors {
+  border-width: 15px 0;
+  background-color: #fff;
+  padding: 0 0 130px 0;
+  position: relative;
+}
+/*
+ * Footer Section
+ */
+ 
+.footer {
+  background-color: #0F2C34;
+  color: #fff;
+  padding: 30px 0;
+}
+
+.footer img {
+  max-width: 250px;
+  margin-bottom: 15px;
+}
+
+.footer h3 {
+  font-family: 'Montserrat';
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin: 0;
+}
+
+@media(max-width: 768px) {
+	div.wrapper {
+		padding-top: 0;
+	}
+	
+	.h1 {
+		word-wrap: break-word;
+	}
+
+  .hero .buttons a {
+    border-width: 8px;
+    display: block;
+    font-size: 20px;
+    margin: 5px;
+  }
+
+  .hero img {
+    width: 250px;
+  }
+
+  .hero hr {
+    border-top-width: 8px;
+    top: -8px;
+  }
+}
