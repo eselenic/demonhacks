@@ -59,7 +59,7 @@ section {
   background: url("../images/bg-chicago-large-100-opacity.png") center center no-repeat;
   background-size: cover;
   background-color: rgba(0, 0, 0, 0.4);
-  min-height: 110vh;
+  min-height: 100vh;
   color: #951818;
   /*&:before {
     content: '';
