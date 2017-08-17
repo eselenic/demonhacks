@@ -42,8 +42,8 @@ event:
   hero:
     links:
       - text: "Apply"
-          href: "https://cssdepaul.typeform.com/to/lDQGNU"
-          redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
+        href: "https://cssdepaul.typeform.com/to/lDQGNU"
+        redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
       - text: "Sponsor"
         href: "/#sponsors"
 
