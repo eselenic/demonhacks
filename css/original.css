@@ -367,6 +367,18 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
 
 @media screen and (min-width : 0px) and (max-width : 767px){
 /*Style*/
+.hero .wrapper h2 {
+	font-size: 28px;
+    font-weight: 400;
+    color: #951818;
+    margin-top: 0;
+}
+/*Style*/
+.hero .wrapper h2 {
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 15px;
+}
 
   .hero .buttons a {
     border-width: 8px;
