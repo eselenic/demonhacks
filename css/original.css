@@ -374,9 +374,13 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
     font-size: 20px;
     margin: 5px;
   }
+  
+  .topText {
+	  max-width: 75%;
+  }
 
   .hero img {
-    width: 75%;
+    width: 55%;
   }
 
   .hero hr {
