@@ -365,7 +365,7 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
   margin: 0;
 }
 
-@media(max-width: 768px) {
+@media only screen and (max-width : 320px) {
 
   .hero .buttons a {
     border-width: 8px;
