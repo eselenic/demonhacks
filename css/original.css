@@ -374,6 +374,9 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
     font-size: 20px;
     margin: 5px;
   }
+  .hero .wrapper {
+	min-width: 50%;
+}
   
   .topText {
 	  max-width: 75%;
