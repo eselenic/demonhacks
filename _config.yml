@@ -139,7 +139,8 @@ event:
   # This is the message you'll receive once you've registered.
     already_sponsoring:
       - sponsor: >
-          https://media.balsamiq.com/files/company/balsamiq-logo-screen.svg 
+          ../images/balsamiq-logo-screen.svg
+        sponsor_link: "https://balsamiq.com/"
     register:
         message: >
             You'll receive more information closer to the hackathon.
