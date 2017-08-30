@@ -137,7 +137,9 @@ event:
     message: >
         Sponsors coming soon! If you're interested in sponsoring, please email us at sponsor@demonhacks.com.
   # This is the message you'll receive once you've registered.
-    
+    already_sponsoring:
+      - sponsor: >
+        https://media.balsamiq.com/files/company/balsamiq-logo-screen.svg 
     register:
         message: >
             You'll receive more information closer to the hackathon.
