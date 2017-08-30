@@ -83,7 +83,7 @@ layout: default
     {{ site.event.sponsors.message | markdownify }}
     <div class="row">
       <div class="col-xs-12 col-sm-8 col-sm-offset-2">
-        {% for item in site.event.sponsors.already_sponsoring limit:4 %}
+        {% for item in site.event.sponsors.already_sponsoring.bronze %}
         <div class="person col-xs-6">  
           <img src="{{item.sponsor}}" class="img col-xs-12">
         </div>
