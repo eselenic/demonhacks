@@ -83,12 +83,14 @@ event:
         Yes there is, you can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
     - question: "What should I bring to a Hackathon?"
       answer: >
-        Laptop and charger; <br/>
+        <ul>
+        <li>Laptop and charger; <li/>
         Phone and charger; <br/>
         We recommend that you bring anything you'd need for an extended stay away from home: <br/>
         tolietries (deoderent, toobrush, toothpaste, etc...); <br/>  
         sleeping bag; <br/> 
         appropriate changes of clothes (remember, you're in the Windy City!);  <br/>
+        </ul>
 
   # Schedule:
   schedule:
