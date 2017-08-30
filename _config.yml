@@ -131,7 +131,7 @@ event:
         ../images/megan.jpg
     - person: "Artur Oganezov"
       image: >
-        https://avatars0.githubusercontent.com/u/14896951?v=4&s=460
+        ../images/Artur.jpg
     - person: "John Pridmore"
       image: >
         ../images/Mackster.jpg
