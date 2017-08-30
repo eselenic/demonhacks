@@ -138,8 +138,13 @@ event:
         More Sponsors coming soon! If you're interested in sponsoring, please email us at sponsor@demonhacks.com.
   # This is the message you'll receive once you've registered.
     already_sponsoring:
-      - sponsor: "../images/balsamiq-logo-screen.svg"
-        sponsor_link: "https://balsamiq.com/"
+      - bronze:
+        - sponsor: "../images/NHDS_Registered_Logo.svg"
+          sponsor_link: "https://www.neighborhoods.com/"
+      - silver:
+        - sponsor: "../images/balsamiq-logo-screen.svg"
+          sponsor_link: "https://balsamiq.com/"
+
     register:
         message: >
             You'll receive more information closer to the hackathon.
