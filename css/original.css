@@ -185,6 +185,28 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
   text-transform: uppercase;
 }
 
+.about h1 {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  margin-bottom: 100px;
+
+}
+
+.aboutSponsors {
+  background-color: #fff;
+  margin-top: 15px;
+  padding: 100px 0;
+  position: relative;
+}
+
+.aboutSponsors {
+  border-width: 15px 0;
+  background-color: #fff;
+  padding: 0 0 130px 0;
+  position: relative;
+}
+
+
 /*
  * Info Section
  */
@@ -323,27 +345,7 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
 /*
 * Sponsors section
 */
-.about h1 {
-  font-family: 'Montserrat';
-  font-weight: 700;
-  margin: 30px 0;
-  margin-bottom: 100px;
 
-}
-
-.aboutSponsors {
-  background-color: #fff;
-  margin-top: 15px;
-  padding: 100px 0;
-  position: relative;
-}
-
-.aboutSponsors {
-  border-width: 15px 0;
-  background-color: #fff;
-  padding: 0 0 130px 0;
-  position: relative;
-}
 /*
  * Footer Section
  */
