@@ -87,7 +87,7 @@ event:
         We recommend that you bring anything you'd need for an extended stay away from home:
         <p> 
         <ul>
-        <li>tolietries (deoderent, toobrush, toothpaste, etc...);    
+        <li>toiletries (deodorant, toobrush, toothpaste, etc...);    
         <li>Laptop and charger; 
         <li>Phone and charger; 
         <li>Terryflaps
@@ -103,7 +103,7 @@ event:
       "5:00 pm - 6:00 pm - Check-in         - (DePaul Center, Concourse level)", 
       "6:00 pm - 6:45 pm - Kick-Off         - (DePaul Center, Concourse level)", 
       "                  - (Migrate to CDM) - ", 
-      "6:45 pm - 8:00 pm - Dinner           - (CDM, 9th floor)", 
+      "6:45 pm - 8:00 pm - Dinner           - (CDM)", 
       "8:00 pm           - Hacking Starts   - (CDM, Various classrooms)", 
       "10:00 pm          - Activity         - (CDM, TBD)"]
     - day: "Saturday"
@@ -144,12 +144,15 @@ event:
         More Sponsors coming soon! <br/> If you're interested in sponsoring, please email us at sponsor@demonhacks.com.
   # This is the message you'll receive once you've registered.
     already_sponsoring:
+      - sponsor: "../images/M_Sltns_blu_rgb_vc_pos.png"
+        sponsor_link: "https://www.motorolasolutions.com/"
+        size: "img col-xs-12"
       - sponsor: "../images/NHDS_Registered_Logo.svg"
         sponsor_link: "https://www.neighborhoods.com/"
         size: "img col-xs-8"
       - sponsor: "../images/balsamiq-logo-screen.svg"
         sponsor_link: "https://balsamiq.com/"
-        size: "img col-xs-12"
+        size: "img col-xs-9"
 
     register:
         message: >
