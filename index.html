@@ -12,6 +12,29 @@ layout: default
   </div>
 </section>
 
+<section class="about" id="sponsors">
+ <div class="container">
+  <h1 class="text-center">Sponsors</h1>
+    {% for i in (1...4) %}
+    <div class="row">
+      <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+        {% for item in site.event.sponsors.already_sponsoring limit:i offset:i %}
+        <div class="person col-xs-6">  
+          <a href="{{item.sponsor_link}}"><img src="{{item.sponsor}}" class="{{item.size}}"></a>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% endfor %}
+
+    <div class="row">
+      <div class="col-xs-12 col-sm-10 col-sm-offset-1 text-center text-align-left about">
+        {{ site.event.sponsors.message | markdownify }}
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="faq">
   <div class="container">
     <h1 class="text-center">FAQ</h1>
@@ -76,26 +99,5 @@ layout: default
   </div>
 </section>
 
-<section class="about" id="sponsors">
- <div class="container">
-  <h1 class="text-center">Sponsors</h1>
-    {% for i in (1...4) %}
-    <div class="row">
-      <div class="col-xs-12 col-sm-8 col-sm-offset-2">
-        {% for item in site.event.sponsors.already_sponsoring limit:i offset:i %}
-        <div class="person col-xs-6">  
-          <a href="{{item.sponsor_link}}"><img src="{{item.sponsor}}" class="{{item.size}}"></a>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-    {% endfor %}
 
-    <div class="row">
-      <div class="col-xs-12 col-sm-10 col-sm-offset-1 text-center text-align-left about">
-        {{ site.event.sponsors.message | markdownify }}
-      </div>
-    </div>
-  </div>
-</section>
 
