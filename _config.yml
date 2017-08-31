@@ -149,7 +149,7 @@ event:
         size: "img col-xs-12"
       - sponsor: "../images/NHDS_Registered_Logo.svg"
         sponsor_link: "https://www.neighborhoods.com/"
-        size: "img col-xs-8"
+        size: "img col-xs-10"
       - sponsor: "../images/balsamiq-logo-screen.svg"
         sponsor_link: "https://balsamiq.com/"
         size: "img col-xs-9"
