@@ -168,6 +168,7 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
   border-width: 15px 0;
   background-color: #fff;
   padding: 40px 0;
+  padding-bottom: 40px;
   position: relative;
   /*color: #951818;*/
 }
