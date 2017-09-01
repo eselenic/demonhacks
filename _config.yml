@@ -146,13 +146,13 @@ event:
     already_sponsoring:
       - sponsor: "../images/M_Sltns_blu_rgb_vc_pos.png"
         sponsor_link: "https://www.motorolasolutions.com/"
-        size: "img col-xs-10"
-      - sponsor: "../images/NHDS_Registered_Logo.svg"
-        sponsor_link: "https://www.neighborhoods.com/"
-        size: "img col-xs-10"
+        size: "img col-xs-6 col-xs-offset-3"
       - sponsor: "../images/balsamiq-logo-screen.svg"
         sponsor_link: "https://balsamiq.com/"
-        size: "img col-xs-9"
+        size: "img col-xs-3 col-xs-offset-4"
+      - sponsor: "../images/NHDS_Registered_Logo.svg"
+        sponsor_link: "https://www.neighborhoods.com/"
+        size: "img col-xs-2 col-xs-offset-5"
 
     register:
         message: >
