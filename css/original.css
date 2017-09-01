@@ -209,11 +209,10 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
 }
 
 
-.sponsor {
+.about .sponsor {
   margin-top:25px;
   margin-bottom:25px;
   background-color: #fff;
-  /*padding: 100px 0;*/
   position: center;
   max-height: 100%;
 }
