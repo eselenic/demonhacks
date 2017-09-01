@@ -158,6 +158,7 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
   background: rgba(8, 8, 8, 0.9);
   max-width:55%;
   margin:75px auto;
+  border-radius:15px;
 }
 
 /* 
