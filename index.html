@@ -55,14 +55,16 @@ layout: default
   <h1 class="text-center">Sponsors</h1>
     <div class="row">
       <div class="col-xs-6 col-sm-8 col-xs-offset-3 col-sm-offset-2">
-        {% for item in site.event.sponsors.already_sponsoring limit:1 %}
+        {% for item in site.event.sponsors.already_sponsoring%}
         <div class="person">  
-          <a href="{{item.sponsor_link}}"><img src="{{item.sponsor}}" class="{{item.size}}"></a>
+          <a href="{{item.sponsor_link}}"><img src="{{item.sponsor}}" ></a>
         </div>
         {% endfor %}
       </div>
     </div>
-    <div class="row">
+    <!--
+    class="{{item.size}}"
+    <div class="row">   
       <div class="col-xs-12 col-sm-8 col-sm-offset-2">
         {% for item in site.event.sponsors.already_sponsoring offset:1 limit:2 %}
         <div class="sponsor">  
@@ -86,7 +88,9 @@ layout: default
       </div>
     </div>
   </div>
+-->
 </section>
+
 
 <section class="us">
   <div class="container">
