@@ -159,7 +159,12 @@ event:
       - sponsor: "../images/C1_Core_NG_RGB_R.png"
         sponsor_link: "https://www.capitalone.com/"
         size: "img col-xs-3 col-md-3"
-
+      - sponsor: "../images/C1_Core_NG_RGB_R.png"
+        sponsor_link: ""
+        size: ""
+      - sponsor: ""
+        sponsor_link: ""
+        size: ""
     register:
         message: >
             You'll receive more information closer to the hackathon.
