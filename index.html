@@ -55,9 +55,7 @@ layout: default
   <h1 class="text-center">Sponsors</h1>
     <div class="row">
         {% for item in site.event.sponsors.already_sponsoring limit:1%}
-        <div class="col-sm-5">  
           <a href="{{item.sponsor_link}}"><img src="{{item.sponsor}}" class="{{item.size}}"></a>
-        </div>
         {% endfor %}
       <div class="col-xs-12 col-sm-8 col-sm-offset-2">
         {% for item in site.event.sponsors.already_sponsoring offset:1 limit:2 %}
