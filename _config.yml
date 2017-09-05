@@ -161,10 +161,10 @@ event:
         size: "img col-xs-3 col-md-3"
       - sponsor: "../images/C1_Core_NG_RGB_R.png"
         sponsor_link: ""
-        size: ""
+        size: "img col-xs-3 col-md-3"
       - sponsor: ""
         sponsor_link: ""
-        size: ""
+        size: "img col-xs-3 col-md-3"
     register:
         message: >
             You'll receive more information closer to the hackathon.
