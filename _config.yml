@@ -159,7 +159,7 @@ event:
       - sponsor: "../images/C1_Core_NG_RGB_R.png"
         sponsor_link: "https://www.capitalone.com/"
         size: "img col-xs-3 col-md-3"
-      - sponsor: "../images/C1_Core_NG_RGB_R.png"
+      - sponsor: "https://i.imgflip.com/1vc5q4.jpg"
         sponsor_link: ""
         size: "img col-xs-3 col-md-3"
       - sponsor: "https://i.imgflip.com/1vc5q4.jpg"
