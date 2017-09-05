@@ -72,8 +72,8 @@ layout: default
       </div>
     </div>
     <div class="row">
-      <div class="col-xs-12 col-sm-8 col-sm-offset-2">
-        {% for item in site.event.sponsors.already_sponsoring offset:2 limit:3 %}
+      <div class="col-xs-12 col-sm-8">
+        {% for item in site.event.sponsors.already_sponsoring offset:2 limit:4 %}
         <div class="sponsor">  
           <a href="{{item.sponsor_link}}"><img src="{{item.sponsor}}" class="{{item.size}}"></a>
         </div>
