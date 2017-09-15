@@ -109,12 +109,12 @@ event:
       event: [ 
       "7:00 am - 9:00 am - Breakfast", 
       "1:00 pm - 2:30 pm - Lunch", 
-      "3:00 pm - 4:00 pm - Keynote Speaker", 
+      "3:00 pm - 4:00 pm - Capture the Flag", 
       "6:00 pm - 7:30 pm - Dinner"]
     - day: " Sunday"
       event: [
       "7:00 am - 9:00 am - Breakfast",
-      "8:30 am           - Hacking ends",
+      "8:30 am <t>         - Hacking ends",
       "12   pm           - Project Expo",
       "2:00 pm - 2:00 pm - Closing Ceremony"]
 
