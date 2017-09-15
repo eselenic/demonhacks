@@ -110,7 +110,7 @@ event:
       "7:00 am - 9:00 am - Breakfast", 
       "1:00 pm - 2:30 pm - Lunch", 
       "3:00 pm - 4:00 pm - Keynote Speaker", 
-      "6:00 pm - 7:30 pm - Dinner", 
+      "6:00 pm - 7:30 pm - Dinner"]
     - day: " Sunday"
       event: [
       "7:00 am - 9:00 am - Breakfast",
@@ -118,20 +118,6 @@ event:
       "12   pm           - Project Expo",
       "2:00 pm - 2:00 pm - Closing Ceremony"]
 
-# About Us section
-#  us:
-#    - person: "Megan Pecho"
-#      image: >
-#        ../images/megan.jpg
-#    - person: "Artur Oganezov"
-#      image: >
-#        ../images/Artur.jpg
-#    - person: "John Pridmore"
-#      image: >
-#        ../images/Mackster.jpg
-#    - person: "Shannon Linares"
-#      image: >
-#        ../images/shannon.jpg
     
   sponsors:
     message: >
