@@ -119,19 +119,19 @@ event:
       "2:00 pm - 2:00 pm - Closing Ceremony"]
 
 # About Us section
-  us:
-    - person: "Megan Pecho"
-      image: >
-        ../images/megan.jpg
-    - person: "Artur Oganezov"
-      image: >
-        ../images/Artur.jpg
-    - person: "John Pridmore"
-      image: >
-        ../images/Mackster.jpg
-    - person: "Shannon Linares"
-      image: >
-        ../images/shannon.jpg
+#  us:
+#    - person: "Megan Pecho"
+#      image: >
+#        ../images/megan.jpg
+#    - person: "Artur Oganezov"
+#      image: >
+#        ../images/Artur.jpg
+#    - person: "John Pridmore"
+#      image: >
+#        ../images/Mackster.jpg
+#    - person: "Shannon Linares"
+#      image: >
+#        ../images/shannon.jpg
     
   sponsors:
     message: >
