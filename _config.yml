@@ -113,10 +113,10 @@ event:
       "6:00 pm - 7:30 pm - Dinner"]
     - day: " Sunday"
       event: [
-      "7:00 am - 9:00 am - Breakfast",
-      "8:30 am <t>         - Hacking ends",
-      "12   pm           - Project Expo",
-      "2:00 pm - 2:00 pm - Closing Ceremony"]
+      "7:00  am - 9:00 am - Breakfast",
+      "8:30  am <t>       - Hacking ends",
+      "10    am <t>       - Project Expo",
+      "12:30 pm - 1:30 pm - Closing Ceremony"]
 
     
   sponsors:
