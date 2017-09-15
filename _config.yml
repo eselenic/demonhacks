@@ -100,29 +100,23 @@ event:
   schedule:
     - day: "Friday"
       event: [
-      "5:00 pm - 6:00 pm - Check-in         - (DePaul Center, Concourse level)", 
-      "6:00 pm - 6:45 pm - Kick-Off         - (DePaul Center, Concourse level)", 
-      "                  - (Migrate to CDM) - ", 
-      "6:45 pm - 8:00 pm - Dinner           - (CDM)", 
-      "8:00 pm           - Hacking Starts   - (CDM, Various classrooms)", 
-      "10:00 pm          - Activity         - (CDM, TBD)"]
+      "5:00 pm - 6:00 pm - Check-in", 
+      "5:00 pm - 8:00 pm - Meet the Sponsors",  
+      "6:00 pm - 7:00 pm - Dinner", 
+      "8:15 pm - 9:00 pm - Opening ceremony", 
+      "9:30 pm - END     - Hacking starts"]
     - day: "Saturday"
+      event: [ 
+      "7:00 am - 9:00 am - Breakfast", 
+      "1:00 pm - 2:30 pm - Lunch", 
+      "3:00 pm - 4:00 pm - Keynote Speaker", 
+      "6:00 pm - 7:30 pm - Dinner", 
+    - day: " Sunday"
       event: [
-      "12:00am - (8am)  - Sleeping Area Available - (CDM, floor TBD)", 
-      "12:00am -        - Midnight Snack          - (CDM, 9th floor)", 
-      "7:30am  - 9:00am - Breakfast               - (CDM, 9th floor)", 
-      "TBD     -        - Keynote speaker         - (CDM, Theater)", 
-      "12:00pm - 1:00pm - Lunch                   - (CDM, 9th floor)", 
-      "TBD              - Keynote Speaker         - (CDM, Theater)", 
-      "6:00pm - 7:00pm  - Dinner                  - (CDM, 9th floor)", 
-      "10:00pm          - Activity                - (CDM, TBD)"]
-    - day: "Sunday"
-      event: ["12:00 am (- 8 am) - Sleeping Area Available (CDM, floor TBD)",
-      "12:00 am - Midnight Snack (CDM, 9th floor)",
-      "7:30 am - 9:00 am - Breakfast (CDM, 9th floor)",
-      "8 am - Hacking ends",
-      "9 am - 11 am - Project Expo (CDM, Various classrooms)",
-      "12:00 pm - 2:00 pm - Closing Ceremony (DePaul Center, Concourse level)"]
+      "7:00 am - 9:00 am - Breakfast",
+      "8:30 am           - Hacking ends",
+      "12   pm           - Project Expo",
+      "2:00 pm - 2:00 pm - Closing Ceremony"]
 
 # About Us section
   us:
