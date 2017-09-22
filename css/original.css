@@ -56,9 +56,9 @@ section {
    */
   width: 100%;
   height: 100%;
-  background: url("../images/bg-chicago-large-100-opacity.png") center center no-repeat;
+/*  background: url("../images/bg-chicago-large-100-opacity.png") center center no-repeat;*/
   background-size: cover;
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: #202226;
   min-height: 100vh;
   color: #951818;
   /*&:before {
@@ -86,7 +86,8 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
 }
 
 .hero img {
-  max-width: 400px;
+  width: 100%;
+  margin-top: 30px;
 }
 
 .hero hr {
@@ -98,30 +99,30 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
 
 .hero .wrapper {
   padding-top: 15vh;
-  min-width: 425px;
 }
 
-.hero .wrapper h1 {
+.hero .wrapper img {
   display: inline-block;
-  font-size: 60px;
-  font-weight: 800;
-  letter-spacing: -2px;
   padding: 10px 10px;
-  color: #951818;
 }
 
 .hero .wrapper h2 {
-  font-size: 35px;
+  font-size: 40px;
   font-weight: 400;
   color: #951818;
-  text-shadow: white; 
   margin-top: 0;
+  color: #fff; 
+  font-family: 'Montserrat';
+  font-weight: 700;
 }
 
 .hero .wrapper h3 {
   font-size: 24px;
   font-weight: 600;
-  padding-bottom: 15px;
+  padding-bottom: 60px;
+  color: #fff; 
+  font-family: 'Montserrat';
+  font-weight: 100;
 }
 
 .hero .buttons {
@@ -129,11 +130,11 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
  }
  
 .hero .buttons a {
-  background: #fff;
-  border: 10px solid #0F2C34;
-  border-radius: 40px;
+  background: transparent;
+  border: 2px solid #ffffff;
+  border-radius: 2px;
   /*color: #0F2C34;*/
-  color: #951818; 
+  color: #fff; 
   display: inline;
   font-family: 'Montserrat';
   font-size: 24px;
@@ -141,24 +142,30 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
   padding: 10px 70px;
   text-decoration: none;
   text-transform: uppercase;
+  -webkit-transition: background 0.5s ease;
+  -moz-transition: background 0.5s ease;
+  -ms-transition: background 0.5s ease;
+  -o-transition: background 0.5s ease;
+  transition: background 0.5s ease;
 }
 
 .hero .buttons a:hover,
 .hero .buttons a:focus {
-  background-color: #0F2C34;
-  color: #fff;
-  transition: all 0.2s ease;
+  background-color: #32aed6;
+  border: 2px solid #32aed6;
+  color: #0F2C34;
 }
 
 .hero .buttons a:not(:last-child) {
   margin-right: 10px;
+  padding: 10px 85px;
 }
 
 .topText {
-  background: rgba(8, 8, 8, 0.9);
-  max-width:55%;
-  margin:75px auto;
-  border-radius:15px;
+/*  background: rgba(8, 8, 8, 0.9);*/
+/*  max-width:55%;*/
+/*  margin:75px auto;*/
+/*  border-radius:15px;*/
 }
 
 /* 
@@ -180,7 +187,7 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
   font-size: 22px;
   line-height: 1.6em;
   letter-spacing: -.3px;
-  margin-top: 130px;
+  margin-top: 100px;
 }
 
 .about p span {
@@ -191,8 +198,20 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
 .about h1 {
   font-family: 'Montserrat';
   font-weight: 700;
-  margin-bottom: 100px;
+  margin-bottom: 60px;
+}
 
+.img-wrapper {
+  height: auto;
+  width: 350px;
+  text-align: center; 
+  padding: 20px; 
+  margin: -10px auto;
+}
+
+.img-wrapper > a > img {
+  height: auto;
+  max-width: 100%;
 }
 
 .aboutSponsors {
@@ -383,37 +402,42 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
 /*Style*/
 .hero .wrapper h2 {
 	font-size: 28px;
-    font-weight: 400;
-    color: #951818;
-    margin-top: 0;
+  margin-top: 0;
 }
-/*Style*/
+
 .hero .wrapper h3 {
     font-size: 18px;
     font-weight: 500;
-    padding-bottom: 15px;
+/*    padding-bottom: 15px;*/
+  padding: 10px;
 }
 
   .hero .buttons a {
-    border-width: 8px;
     display: block;
-    font-size: 20px;
-    margin: 5px;
+    font-size: 17px;
+    margin: 20px 30px;
   }
+  
+  .hero .buttons a:not(:last-child) { margin-right: 0; margin: 20px 30px;}
   .hero .wrapper {
 	min-width: 50%;
 }
   
   .topText {
-	  max-width: 75%;
+/*	  max-width: 75%;*/
   }
 
   .hero img {
-    width: 75%;
+/*    width: 75%;*/
   }
 
   .hero hr {
     border-top-width: 8px;
     top: -8px;
+  }
+  
+  .img-wrapper {
+    width: 230px;
+    margin: 0px auto;
   }
 }
