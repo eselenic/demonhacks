@@ -116,6 +116,16 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
   font-weight: 700;
 }
 
+.hero .wrapper h4 {
+  font-size: 35px;
+  font-weight: 400;
+  color: #951818;
+  margin-top: 0;
+  color: #fff; 
+  font-family: 'Montserrat';
+  font-weight: 700;
+}
+
 .hero .wrapper h3 {
   font-size: 24px;
   font-weight: 600;
@@ -203,7 +213,7 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
 
 .img-wrapper {
   height: auto;
-  width: 350px;
+  width: 280px;
   text-align: center; 
   padding: 20px; 
   margin: -10px auto;
@@ -404,11 +414,16 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
 	font-size: 28px;
   margin-top: 0;
 }
+  
+.hero .wrapper h4 {
+	font-size: 28px;
+  margin-top: 0;
+}
 
 .hero .wrapper h3 {
     font-size: 18px;
     font-weight: 500;
-/*    padding-bottom: 15px;*/
+    padding-bottom: 15px;
   padding: 10px;
 }
 

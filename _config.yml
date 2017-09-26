@@ -78,9 +78,15 @@ event:
       answer: >
         Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
         We work with over 200 Member Events and empower over 70,000 students every year.
-    - question: "Is there a code of conduct?"
+    - question: "Is there a Code of Conduct?"
       answer: >
         Yes there is, you can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
+    - question: "Are walk-ins allowed?"
+      answer: >
+        If you were unable to register, we will take walk-ins on a first-come, first-serve basis starting at 6pm.
+    - question: "Do I need to bring any hardware?"
+      answer: >
+        MLH will be lending out hardware from their hardware lab, so you're all set!
     - question: "What should I bring to a Hackathon?"
       answer: >
         <p>
@@ -103,7 +109,7 @@ event:
       "5:00 pm - 8:00 pm - Meet the Sponsors",  
       "6:00 pm - 7:00 pm - Dinner", 
       "8:15 pm - 9:00 pm - Opening ceremony", 
-      "9:30 pm - END     - Hacking starts"]
+      "9:30 pm - Hacking starts"]
     - day: "Saturday"
       event: [ 
       "7:00 am - 9:00 am - Breakfast", 
@@ -138,12 +144,15 @@ event:
       - sponsor: "../images/NHDS_Registered_Logo.svg"
         sponsor_link: "https://www.neighborhoods.com/"
         size: "img col-xs-12 col-md-6 col-lg-4 col-lg-offset-2"
-      #- sponsor: "https://i.imgflip.com/1vc5q4.jpg"
-      #  sponsor_link: ""
-      #  size: "img col-xs-3 col-md-3"
-      #- sponsor: "https://i.imgflip.com/1vc5q4.jpg"
-      #  sponsor_link: ""
-      #  size: "img col-xs-3 col-md-3"
+      - sponsor: "../images/github-logo.svg"
+        sponsor_link: "https://github.com/"
+        size: "img col-xs-3 col-md-3"
+      - sponsor: "../images/mlh-logo-color.svg"
+        sponsor_link: "https://mlh.io"
+        size: "img col-xs-3 col-md-3"
+      - sponsor: "../images/saf-b-logo.png"
+        sponsor_link: ""
+        size: "img col-xs-3 col-md-3"
     register:
         message: >
             You'll receive more information closer to the hackathon.
