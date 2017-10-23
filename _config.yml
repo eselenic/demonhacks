@@ -41,11 +41,11 @@ event:
 
   hero:
     links:
-      - text: "Apply"
-        href: "https://cssdepaul.typeform.com/to/lDQGNU"
-        redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
-      - text: "Sponsor"
-        href: "/#sponsors"
+#      - text: "Apply"
+#        href: "https://cssdepaul.typeform.com/to/lDQGNU"
+#        redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
+#      - text: "Sponsor"
+#        href: "/#sponsors"
 
   about:
     description: >
@@ -54,6 +54,9 @@ event:
 
   # Frequently asked questions.
   faq:
+    - question: "Are applications still open?"
+      answer: >
+        We have hit capacity on the number of people we can accept at the moment, but odds are people won't show up and we do accept walk-ins starting at 6PM.
     - question: "Where is Chicago?"
       answer: >
         [Right here](http://bfy.tw/1CQf)
@@ -100,6 +103,9 @@ event:
         <li>Thermarest;
         <li>Appropriate changes of clothes (remember, you're in the Windy City!);
         <ul>
+    - question: "Any more questions?"
+      answer: >
+        Email us at [team@demonhacks.com](mailto:team@demonhacks.com).
 
   # Schedule:
   schedule:
@@ -113,8 +119,7 @@ event:
     - day: "Saturday"
       event: [ 
       "7:00 am - 9:00 am - Breakfast", 
-      "1:00 pm - 2:30 pm - Lunch", 
-      "3:00 pm - 4:00 pm - Capture the Flag", 
+      "1:00 pm - 2:30 pm - Lunch",
       "6:00 pm - 7:30 pm - Dinner"]
     - day: " Sunday"
       event: [

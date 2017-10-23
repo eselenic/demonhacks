@@ -73,6 +73,19 @@ section {
   }*/ 
 }
 
+.hero .arrow-cont{
+  position: absolute;
+  bottom: 5px;
+  left: 47%;
+  text-align: center;
+}
+
+.hero .arrow-cont img {
+  width: auto;
+  height: 60px;
+  margin-top: 0px;
+}
+
 /*section.about { REMOVE ONCE APPLICATION BUTTON IS ADDED BACK
 	padding-top: 0;
 	padding-bottom: 0;
@@ -444,6 +457,10 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
 
   .hero img {
 /*    width: 75%;*/
+  }
+  
+  .hero .arrow-cont{
+    left: 42%;
   }
 
   .hero hr {
