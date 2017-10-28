@@ -114,10 +114,10 @@ event:
       "5:00 pm - 6:00 pm - Check-in (Lobby)", 
       "5:00 pm - 8:00 pm - Meet the Sponsors (4th Floor Lab)",  
       "6:00 pm - 7:00 pm - Dinner (9th Floor)", 
-      "8:15 pm - 9:00 pm - Opening ceremony (924)", 
-      "9:15 pm - Hacking starts",
-      "9:15 pm - 9:45 pm - Team Forming Activity (924)",
-      "9:30 pm - 10:00 pm - Tech Talk: Motorola Solutions (708)",
+      "8:15 pm - 8:30 pm - Opening ceremony (924)", 
+      "8:30 pm - Hacking starts",
+      "8:30 pm - 9:00 pm - Team Forming Activity (924)",
+      "9:00 pm - 9:30 pm - Tech Talk: Motorola Solutions (708)",
       "10:00 pm - Sleeping Floor Open (5th Floor)"]
     - day: "Saturday"
       event: [ 
