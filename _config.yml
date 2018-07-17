@@ -32,7 +32,7 @@ event:
     Disregard Sleep;
     Pursue Greatness;
   date:        "October 20th - 21st"
-  location:    "Chicago, IL, United States"
+  location:    "Chicago, IL"
 
   trust_badge:
     year:   "2018"  # season year
@@ -49,14 +49,14 @@ event:
 
   about:
     description: >
-      DemonHacks is a 36-hour hackathon hosted by DePaul University in Chicago, IL. DePaul's Loop campus is right next to the Art Institute 
+      DemonHacks is a 24-hour hackathon hosted by DePaul University in Chicago, IL. DePaul's Loop campus is right next to the Art Institute 
       of Chicago and Millenium Park. 
 
   # Frequently asked questions.
   faq:
-    - question: "Are applications still open?"
+    - question: "Are applications open?"
       answer: >
-        We have hit capacity on the number of people we can accept at the moment, but odds are people won't show up and we do accept walk-ins starting at 6PM.
+        Yes! Please apply, and spread the word. 
     - question: "Where is Chicago?"
       answer: >
         [Right here](http://bfy.tw/1CQf)
@@ -76,7 +76,8 @@ event:
         The event is being hosted at DePaul University's loop campus in our College of Computing and Digital Media building located at 243 S Wabash Ave, Chicago, IL 60604.
     - question: "Will there be travel reimbursement?"
       answer: >
-        [Click Here to find out](https://goo.gl/w9TwfR)
+        Stay tuned. Minor gas or train reimbursement may be provided.
+      # [Click Here to find out](https://goo.gl/w9TwfR)
     - question: "What is Major League Hacking?"
       answer: >
         Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
@@ -86,10 +87,11 @@ event:
         Yes there is, you can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
     - question: "Are walk-ins allowed?"
       answer: >
-        If you were unable to register, we will take walk-ins on a first-come, first-serve basis starting at 6pm.
-    - question: "Do I need to bring any hardware?"
-      answer: >
-        MLH will be lending out hardware from their hardware lab, so you're all set!
+        If you were unable to register, we will take walk-ins on a first-come, first-serve basis.
+      # provide a time once we know
+    # - question: "Do I need to bring any hardware?"
+    #   answer: >
+    #     MLH will be lending out hardware from their hardware lab, so you're all set!
     - question: "What should I bring to a Hackathon?"
       answer: >
         <p>
@@ -109,37 +111,38 @@ event:
 
   # Schedule:
   schedule:
-    - day: "Friday"
-      event: [
-      "5:00 pm - 6:00 pm - Check-in (Lobby)", 
-      "5:00 pm - 8:00 pm - Meet the Sponsors (4th Floor Lab)",  
-      "6:00 pm - 7:00 pm - Dinner (9th Floor)", 
-      "8:15 pm - 8:30 pm - Opening ceremony (924)", 
-      "8:30 pm - Hacking starts",
-      "8:30 pm - 9:00 pm - Team Forming Activity (924)",
-      "9:00 pm - 9:30 pm - Tech Talk: Motorola Solutions (708)",
-      "10:00 pm - Sleeping Floor Open (5th Floor)"]
-    - day: "Saturday"
-      event: [ 
-      "12:00 am - 1:00 am - Midnight Snack (9th Floor)",
-      "2:00 am - 2:30 am - Tech Talk: Blockchain Education Network (708)",
-      "7:00 am - 9:00 am - Breakfast (9th Floor)", 
-      "1:00 pm - 2:00 pm - Lunch (9th Floor)",
-      "3:00 pm - 3:30 pm - Tech Talk: GitHub (708)",
-      "6:00 pm - 7:30 pm - Dinner (9th Floor)",
-      "8:00 pm - 8:30 pm - Cupstacking (924)"]
-    - day: " Sunday"
-      event: [
-      "12:00 am - 1:00 am - Midnight Snack (9th Floor)",
-      "7:00  am - 9:00 am - Breakfast (9th Floor)",
-      "8:30  am <t>       - Hacking ends",
-      "10    am <t>       - Project Expo (924)",
-      "12:30 pm - 1:30 pm - Closing Ceremony (924)"]
+    - day: "Check back soon!!"
+    # - day: "Friday"
+    #   event: [
+    #   "5:00 pm - 6:00 pm - Check-in (Lobby)", 
+    #   "5:00 pm - 8:00 pm - Meet the Sponsors (4th Floor Lab)",  
+    #   "6:00 pm - 7:00 pm - Dinner (9th Floor)", 
+    #   "8:15 pm - 8:30 pm - Opening ceremony (924)", 
+    #   "8:30 pm - Hacking starts",
+    #   "8:30 pm - 9:00 pm - Team Forming Activity (924)",
+    #   "9:00 pm - 9:30 pm - Tech Talk: Motorola Solutions (708)",
+    #   "10:00 pm - Sleeping Floor Open (5th Floor)"]
+    # - day: "Saturday"
+    #   event: [ 
+    #   "12:00 am - 1:00 am - Midnight Snack (9th Floor)",
+    #   "2:00 am - 2:30 am - Tech Talk: Blockchain Education Network (708)",
+    #   "7:00 am - 9:00 am - Breakfast (9th Floor)", 
+    #   "1:00 pm - 2:00 pm - Lunch (9th Floor)",
+    #   "3:00 pm - 3:30 pm - Tech Talk: GitHub (708)",
+    #   "6:00 pm - 7:30 pm - Dinner (9th Floor)",
+    #   "8:00 pm - 8:30 pm - Cupstacking (924)"]
+    # - day: " Sunday"
+    #   event: [
+    #   "12:00 am - 1:00 am - Midnight Snack (9th Floor)",
+    #   "7:00  am - 9:00 am - Breakfast (9th Floor)",
+    #   "8:30  am <t>       - Hacking ends",
+    #   "10    am <t>       - Project Expo (924)",
+    #   "12:30 pm - 1:30 pm - Closing Ceremony (924)"]
 
     
   sponsors:
     message: >
-        More Sponsors coming soon! <br/> If you're interested in sponsoring, please email us at sponsor@demonhacks.com.
+        Our sponsors from last year. Check back soon to see whose supporting DemonHacks this year! <br/> If you're interested in sponsoring, please email us at sponsor@demonhacks.com.
   # This is the message you'll receive once you've registered.
     already_sponsoring:
       - sponsor: "../images/balsamiq-logo-screen.svg"
