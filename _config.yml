@@ -21,7 +21,7 @@ tracking:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "DemonHacks | October 2017 | DemonHacks "
+  title:       "DemonHacks | October 2018 | DemonHacks "
   description: "DemonHacks."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
@@ -31,7 +31,7 @@ event:
   description: >
     Disregard Sleep;
     Pursue Greatness;
-  date:        "October 27th - 29th"
+  date:        "October 20th - 21st"
   location:    "Chicago, IL, United States"
 
   trust_badge:
