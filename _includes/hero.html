@@ -6,17 +6,17 @@
 		<h2 rel="description">{{ site.event.description }}</h2>
 		<h3 rel="location">{{ site.event.date }} &mdash; {{ site.event.location }}</h3>
 	</div>
-<!--
+
     <div class="buttons align-center">
       {% for link in site.event.hero.links %}
-        {% if link.href %}
+        {% if link.id == "apply-btn" %}
+          <a href="{{ link.href }}" target="_blank">{{ link.text }}</a>
+        {% elsif link.href %}
           <a href="{{ link.href }}">{{ link.text }}</a>
-        {% elsif link.my_mlh %}
-          <a class="apply" href="https://my.mlh.io/oauth/authorize?client_id={{ link.my_mlh.client_id }}&amp;redirect_uri={{ link.my_mlh.redirect_uri }}&amp;response_type=token">{{ link.text }}</a>
         {% endif %}
       {% endfor %}
     </div>
--->
+
     <div class="arrow-cont">
       <!-- Double Down icon by Icons8 -->
       <img class="icon icons8-Double-Down" width="50" height="50" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAABvklEQVRoQ+3Y7U3EMAwGYHsDNgE2gMlhA2ATNgjyKUVRLm0c+3UvqnJ/Kl2bj8dOG7dMF/nxRRy0ILNlcmVkZSQoAtddWimlrxy0d2b+DQqgqduU0hMRfUhjZn4tO7nLSErpm4ieiUiO02AKxAsR/TCzHP9/LYioP2fC1AgieqtXS/MeyQ2nwGgQt6W2t1hnwGgRhxA5+UjMCKILeRRmFKGCnI2xINSQszBWxBAkGuNBDEOiMF6ECYLGIBBmCAqDQjQhI0WjZ5+xIEKLRgvGiYgrGkcwCERo0ajBRCHgReMRJhLRfWppolxXz602+Rp5s7ut79bS2OlH3ab7zg7CyDzDEN2MbFECYKSrkExsc+xmBISRbu5eT73LqWyvhlh385xN+epx+EXG8jAwQ6yYOvLITAwvrXJwyz2zh/FmwgVBZQaFUD+1OtE0fTZCItwQa2bQCAhkFBOBgEG0mCgEFNLDRCLgkD1MflioC8DevtM6P7Szawdo7DPSVF00asdx7ezaQSqMNFMVjdr+6+tCMrINUmDkr27RaEWE3CP1ZLRFowdxCsQ7QW370KWlnQTiugVBRBHZx8oIMpqIvv4AqWfkQu1G/YcAAAAASUVORK5CYII=">
