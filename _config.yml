@@ -40,11 +40,11 @@ event:
 
   hero:
     links:
-#      - text: "Apply"
-#        href: "https://cssdepaul.typeform.com/to/lDQGNU"
+     - text: "Apply"
+       href: "https://cssdepaul.typeform.com/to/VzIAbK"
 #        redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
-#      - text: "Sponsor"
-#        href: "/#sponsors"
+     - text: "Sponsor"
+       href: "/#sponsors"
 
   about:
     description: >
