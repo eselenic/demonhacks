@@ -34,7 +34,7 @@ event:
   location:    "Chicago, IL"
 
   trust_badge:
-    year:   "2018"  # season year
+    year:   "2019"  # season year
     region: "na"    # "na" or "eu"
     color:  "blue" # "white", "black", "gray", "red", "blue" or "yellow"
 
