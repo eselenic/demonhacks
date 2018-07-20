@@ -31,31 +31,40 @@ event:
   description: >
     Eat; Hack; Repeat;
   date:        "October 20th - 21st"
-  location:    "Chicago, IL"
+  location:    "Chicago, Illinois"
 
+<<<<<<< HEAD
   trust_badge:
     year:   "2019"  # season year
     region: "na"    # "na" or "eu"
     color:  "blue" # "white", "black", "gray", "red", "blue" or "yellow"
+=======
+  # trust_badge:
+  #   year:   "2018"  # season year
+  #   region: "na"    # "na" or "eu"
+  #   color:  "blue" # "white", "black", "gray", "red", "blue" or "yellow"
+>>>>>>> 687baafa721d029ddb87204e40f85722cdb072c5
 
   hero:
     links:
      - text: "Apply"
        href: "https://cssdepaul.typeform.com/to/VzIAbK"
+       id: "apply-btn"
 #        redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
      - text: "Sponsor"
        href: "/#sponsors"
+       id: "sponsor-btn"
 
   about:
     description: >
-      DemonHacks is a 24-hour hackathon hosted by DePaul University in Chicago, IL. DePaul's Loop campus is right next to the Art Institute 
-      of Chicago and Millenium Park. 
+      DemonHacks is a 24-hour hackathon hosted by DePaul University in Chicago, Illinois. DePaul's Loop campus is right next to the Art Institute
+      of Chicago and Millenium Park.
 
   # Frequently asked questions.
   faq:
     - question: "Are applications open?"
       answer: >
-        Yes! Please apply, and spread the word. 
+        Yes! Please apply, and spread the word.
     - question: "Where is Chicago?"
       answer: >
         [Right here](http://bfy.tw/1CQf)
@@ -95,11 +104,11 @@ event:
       answer: >
         <p>
         We recommend that you bring anything you'd need for an extended stay away from home:
-        <p> 
+        <p>
         <ul>
-        <li>toiletries (deodorant, toobrush, toothpaste, etc...);    
-        <li>Laptop and charger; 
-        <li>Phone and charger; 
+        <li>toiletries (deodorant, toobrush, toothpaste, etc...);
+        <li>Laptop and charger;
+        <li>Phone and charger;
         <li>Sleeping bag;
         <li>Thermarest;
         <li>Appropriate changes of clothes (remember, you're in the Windy City!);
@@ -113,19 +122,19 @@ event:
     - day: "Check back soon!!"
     # - day: "Friday"
     #   event: [
-    #   "5:00 pm - 6:00 pm - Check-in (Lobby)", 
-    #   "5:00 pm - 8:00 pm - Meet the Sponsors (4th Floor Lab)",  
-    #   "6:00 pm - 7:00 pm - Dinner (9th Floor)", 
-    #   "8:15 pm - 8:30 pm - Opening ceremony (924)", 
+    #   "5:00 pm - 6:00 pm - Check-in (Lobby)",
+    #   "5:00 pm - 8:00 pm - Meet the Sponsors (4th Floor Lab)",
+    #   "6:00 pm - 7:00 pm - Dinner (9th Floor)",
+    #   "8:15 pm - 8:30 pm - Opening ceremony (924)",
     #   "8:30 pm - Hacking starts",
     #   "8:30 pm - 9:00 pm - Team Forming Activity (924)",
     #   "9:00 pm - 9:30 pm - Tech Talk: Motorola Solutions (708)",
     #   "10:00 pm - Sleeping Floor Open (5th Floor)"]
     # - day: "Saturday"
-    #   event: [ 
+    #   event: [
     #   "12:00 am - 1:00 am - Midnight Snack (9th Floor)",
     #   "2:00 am - 2:30 am - Tech Talk: Blockchain Education Network (708)",
-    #   "7:00 am - 9:00 am - Breakfast (9th Floor)", 
+    #   "7:00 am - 9:00 am - Breakfast (9th Floor)",
     #   "1:00 pm - 2:00 pm - Lunch (9th Floor)",
     #   "3:00 pm - 3:30 pm - Tech Talk: GitHub (708)",
     #   "6:00 pm - 7:30 pm - Dinner (9th Floor)",
@@ -138,7 +147,7 @@ event:
     #   "10    am <t>       - Project Expo (924)",
     #   "12:30 pm - 1:30 pm - Closing Ceremony (924)"]
 
-    
+
   sponsors:
     message: >
         Our sponsors from last year. Check back soon to see whose supporting DemonHacks this year! <br/> If you're interested in sponsoring, please email us at sponsor@demonhacks.com.

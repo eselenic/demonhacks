@@ -1,4 +1,12 @@
-# MLH/mlh-hackathon-boilerplate
+# DemonHacks 2018 Site
+
+Run Commands:
+`bundle install`
+`bundle exec jekyll serve`
+
+
+
+## MLH/mlh-hackathon-boilerplate
 
 This is a hackathon boilerplate created by [Major League Hacking][mlh-github]. Using [Jekyll][jekyll], it has a extensible [configuration][config] that covers basic event information. You can then fork the website and have it hosted free through [GitHub Pages][github-pages]. It's free to use.
 
