@@ -34,7 +34,7 @@ event:
   location:    "Chicago, Illinois"
 
   trust_badge:
-    year:   "2018"  # season year
+    year:   "2019"  # season year
     region: "na"    # "na" or "eu"
     color:  "blue" # "white", "black", "gray", "red", "blue" or "yellow"
   # trust_badge:
@@ -54,7 +54,7 @@ event:
 
   about:
     description: >
-      DemonHacks is a 24-hour hackathon hosted by DePaul University in Chicago, Illinois. DePaul's Loop campus is right next to the Art Institute
+      DemonHacks is a 26-hour hackathon hosted by DePaul University in Chicago, Illinois. DePaul's Loop campus is right next to the Art Institute
       of Chicago and Millenium Park.
 
   # Frequently asked questions.
@@ -116,33 +116,30 @@ event:
 
   # Schedule:
   schedule:
-    - day: "Check back soon!!"
-    # - day: "Friday"
-    #   event: [
-    #   "5:00 pm - 6:00 pm - Check-in (Lobby)",
-    #   "5:00 pm - 8:00 pm - Meet the Sponsors (4th Floor Lab)",
-    #   "6:00 pm - 7:00 pm - Dinner (9th Floor)",
-    #   "8:15 pm - 8:30 pm - Opening ceremony (924)",
-    #   "8:30 pm - Hacking starts",
-    #   "8:30 pm - 9:00 pm - Team Forming Activity (924)",
-    #   "9:00 pm - 9:30 pm - Tech Talk: Motorola Solutions (708)",
-    #   "10:00 pm - Sleeping Floor Open (5th Floor)"]
-    # - day: "Saturday"
-    #   event: [
-    #   "12:00 am - 1:00 am - Midnight Snack (9th Floor)",
-    #   "2:00 am - 2:30 am - Tech Talk: Blockchain Education Network (708)",
-    #   "7:00 am - 9:00 am - Breakfast (9th Floor)",
-    #   "1:00 pm - 2:00 pm - Lunch (9th Floor)",
-    #   "3:00 pm - 3:30 pm - Tech Talk: GitHub (708)",
-    #   "6:00 pm - 7:30 pm - Dinner (9th Floor)",
-    #   "8:00 pm - 8:30 pm - Cupstacking (924)"]
-    # - day: " Sunday"
-    #   event: [
-    #   "12:00 am - 1:00 am - Midnight Snack (9th Floor)",
-    #   "7:00  am - 9:00 am - Breakfast (9th Floor)",
-    #   "8:30  am <t>       - Hacking ends",
-    #   "10    am <t>       - Project Expo (924)",
-    #   "12:30 pm - 1:30 pm - Closing Ceremony (924)"]
+    # - day: "Check back soon!!"
+    - day: "Saturday"
+      event: [
+      "9:00 am - 10:00 am - Check-In",
+      "9:00 am - 2:00 pm - Meet the Sponsors",
+      "10:00 am - 11:00 am - Breakfast",
+      "11:00 am - 11:30 am - Opening Ceremony",
+      "11:30 am - HACKING STARTS!",
+      "11:30 am - 12:30 pm - Team Forming Event",
+      "1:30 pm - 2:30 pm - Lunch",
+      "2:30 pm - 3:30 pm - Tech Talk or Workshop",
+      "6:30 pm - 7:30 pm - Dinner",
+      "8:00 pm - 9:00 pm - Cup Stacking!",
+      "10:00 pm - 11:00 pm - Tech Talk or Workshop",
+      "Midnight - Midnight Snack"
+      ]
+    - day: " Sunday"
+      event: [
+      "8:00 am - 10:00 am - Breakfast",
+      "10:00 am - 11:00 am - Tech Talk or Workshop",
+      "2:00 pm - 3:00 pm - Lunch",
+      "2:30 pm - HACKING ENDS!",
+      "3:30 pm - 4:30 pm Project Expo",
+      "5:00 pm - 5:30 pm - Closing Ceremony"]
 
 
   sponsors:
