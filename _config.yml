@@ -144,7 +144,7 @@ event:
 
   sponsors:
     message: >
-        Our sponsors from last year. Check back soon to see whose supporting DemonHacks this year! <br/> If you're interested in sponsoring, please email us at sponsor@demonhacks.com.
+        Our current sponsors. More coming soon! <br/> If you're interested in sponsoring, please email us at sponsor@demonhacks.com.
   # This is the message you'll receive once you've registered.
     already_sponsoring:
       - sponsor: "../images/balsamiq-logo-screen.svg"
