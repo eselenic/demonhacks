@@ -98,7 +98,7 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
 	padding-top: 0;
 }
 
-.hero #logo {
+.hero img :not(.social-media) {
   width: 100%;
   margin-top: 30px;
 }
