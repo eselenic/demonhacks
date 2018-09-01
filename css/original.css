@@ -107,9 +107,14 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 200px;
-  width:200px;
+  height: 80px;
+  width:80px;
 }
+
+#soc-media-buttons{
+  height: 80px;
+}
+
 .hero hr {
   border-top: 15px solid #0F2C34;
   margin-right: 75px;
