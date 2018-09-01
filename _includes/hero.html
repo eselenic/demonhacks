@@ -6,7 +6,12 @@
 		<h2 rel="description">{{ site.event.description }}</h2>
 		<h3 rel="location">{{ site.event.date }} &mdash; {{ site.event.location }}</h3>
 	</div>
-
+	
+	<div>
+	<a href="https://www.facebook.com/demonhacks2018" target="_blank"><img src="images/facebook-social-media-icon.png" width="40" height="40" alt="Facebook Page"/></a>
+	<a href="mailto:cssdepaul@gmail.com" target="_blank"><img src="images/email-icon.png" width="40" height="40" alt="Email Us!"/></a>
+	</div>
+	
     <div class="buttons align-center">
       {% for link in site.event.hero.links %}
         {% if link.id == "apply-btn" %}
