@@ -104,6 +104,11 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
   margin-top: 30px;
 }
 
+#logo {
+  width: 100%;
+  margin-top: 30px;
+}
+
 .hero .social-media {
   display: inline-block;
   height: 80px;
