@@ -61,7 +61,11 @@ event:
   faq:
     - question: "Are applications open?"
       answer: >
-        Yes! Please apply, and spread the word.
+        Yes! Please apply, and spread the word. 
+    - question: "I'm a beginner; am I welcome?"
+      answer: >
+        Of course! Hackathons are a great place to learn new technologies, meet new people, 
+        network with sponsors, add something to your resume, and eat some free food ;).
     - question: "Where is Chicago?"
       answer: >
         [Right here](http://bfy.tw/1CQf)
