@@ -105,13 +105,14 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
 
 .hero .social-media {
   display: inline-block;
-  height: 60px;
-  width:60px;
+  height: 80px;
+  width:80px;
 }
 
 #soc-media-buttons{
-  height: 60px;
+  height: 80px;
   text-align:center;
+  margin-bottom: 10px;
 }
 
 .hero hr {
