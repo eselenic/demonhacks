@@ -95,9 +95,6 @@ section {
 section.faq {
 	padding-top: 0;
 }
-section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
-	padding-top: 0;
-}
 
 .hero img :not(.social-media) {
   width: 100%;
@@ -355,7 +352,7 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
 .schedule {
   background-color: #fff;
   margin-top: 15px;
-  padding: 100px 0;
+  padding: 40px 0;
   position: relative;
 }
 
@@ -378,38 +375,6 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
 .schedule .day .event {
   font-size: 14px;
   line-height: 1.5em;
-}
-/*
- * about us section
- */
- 
- .us h1 {
-  font-family: 'Montserrat';
-  font-weight: 700;
-  margin: 30px 0;
-}
-
-.us {
-  background-color: #fff;
-  padding: 100px 0;
-  position: relative;
-}
-.us .person {
-  background-color: #fff;
-  margin-top: 15px;
-  /*padding: 100px 0;*/
-  position: relative;
-  max-height: 100%;
-}
-/*.us img {
-  /*float: relative;
-  max-height: 200px;
-}*/
-
-.us h3 {
-  font-family: 'Montserrat';
-  font-weight: 700;
-  margin: 30px 0;
 }
 
 /*
