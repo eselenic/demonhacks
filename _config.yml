@@ -170,7 +170,7 @@ event:
       #   sponsor_link: "https://www.neighborhoods.com/"
       #   size: "img col-xs-12 col-md-6 col-lg-4 col-lg-offset-2"
       - sponsor: "../images/brooksource.png"
-        sponsor_link: ""
+        sponsor_link: "https://www.brooksource.com"
         size: "img col-xs-3 col-md-3"
       - sponsor: "../images/mlh-logo-color.svg"
         sponsor_link: "https://mlh.io"
