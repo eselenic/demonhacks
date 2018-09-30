@@ -175,9 +175,9 @@ event:
       - sponsor: "../images/mlh-logo-color.svg"
         sponsor_link: "https://mlh.io"
         size: "img col-xs-3 col-md-3"
-      # - sponsor: "../images/saf-b-logo.png"
-      #   sponsor_link: ""
-      #   size: "img col-xs-3 col-md-3"
+      - sponsor: "../images/saf-b-logo.png"
+        sponsor_link: ""
+        size: "img col-xs-3 col-md-3"
     register:
         message: >
             You'll receive more information closer to the hackathon.
