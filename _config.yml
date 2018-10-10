@@ -151,18 +151,18 @@ event:
         Our current sponsors. More coming soon! <br/> If you're interested in sponsoring, please email us at sponsor@demonhacks.com.
   # This is the message you'll receive once you've registered.
     already_sponsoring:
-      - sponsor: "../images/balsamiq-logo-screen.svg"
-        sponsor_link: "https://balsamiq.com/"
-        size: "col-xs-12 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-2 col-lg-4"
-      - sponsor: "../images/FBB_Lockup_FB_IG__Black.jpg"
-        sponsor_link: "https://facebook.com/"
-        size: "col-xs-12 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-2 col-lg-4"
+      - sponsor: "../images/JPMC-Logo-Black.png"
+        sponsor_link: "https://www.jpmorganchase.com/"
+        size: "col-xs-12 col-sm-10col-md-4 col-lg-4"
       - sponsor: "../images/Discover.png"
         sponsor_link: "https://www.discover.com/"
         size: "col-xs-12 col-sm-10col-md-4 col-lg-4"
-      - sponsor: "../images/stickermule.png"
-        sponsor_link: "https://www.stickermule.com/"
-        size: "col-xs-12 col-sm-10col-md-4 col-lg-4"
+      - sponsor: "../images/FBB_Lockup_FB_IG__Black.jpg"
+        sponsor_link: "https://facebook.com/"
+        size: "col-xs-12 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-2 col-lg-4"
+      - sponsor: "../images/balsamiq-logo-screen.svg"
+        sponsor_link: "https://balsamiq.com/"
+        size: "col-xs-12 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-2 col-lg-4"
       # - sponsor: "../images/M_Sltns_blu_rgb_vc_pos.png"
       #   sponsor_link: "https://www.motorolasolutions.com/"
       #   size: "col-xs-12 col-sm-10 col-md-4 col-lg-4"
@@ -181,6 +181,9 @@ event:
       - sponsor: "../images/saf-b-logo.png"
         sponsor_link: ""
         size: "img col-xs-3 col-md-3"
+      - sponsor: "../images/stickermule.png"
+        sponsor_link: "https://www.stickermule.com/"
+        size: "col-xs-12 col-sm-10col-md-4 col-lg-4"
     register:
         message: >
             You'll receive more information closer to the hackathon.
