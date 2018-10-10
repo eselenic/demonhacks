@@ -160,7 +160,7 @@ event:
       - sponsor: "../images/Discover.png"
         sponsor_link: "https://www.discover.com/"
         size: "col-xs-12 col-sm-10col-md-4 col-lg-4"
-        - sponsor: "../images/stickermule.png"
+      - sponsor: "../images/stickermule.png"
         sponsor_link: "https://www.stickermule.com/"
         size: "col-xs-12 col-sm-10col-md-4 col-lg-4"
       # - sponsor: "../images/M_Sltns_blu_rgb_vc_pos.png"
