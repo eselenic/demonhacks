@@ -45,7 +45,7 @@ event:
   hero:
     links:
      - text: "Apply"
-       href: "https://cssdepaul.typeform.com/to/VzIAbK"
+       href: "/#faq"
        id: "apply-btn"
 #        redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
      - text: "Sponsor"
@@ -61,7 +61,7 @@ event:
   faq:
     - question: "Are applications open?"
       answer: >
-        Yes! Please apply, and spread the word. 
+        Applications are now closed. If you're a local student, feel free to come by as a walk-in. Chances are we'll be able to let you in! Email team@demonhacks.com with any concerns.
     - question: "I'm a beginner; am I welcome?"
       answer: >
         Of course! Hackathons are a great place to learn new technologies, meet new people, 
