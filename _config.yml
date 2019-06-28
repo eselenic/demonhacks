@@ -29,14 +29,18 @@ seo:
 event:
   name: "DemonHacks"
   description: >
-    Eat; Hack; Repeat;
-  date:        "October 20th - 21st"
+    Applications for DH Opening Soon!
+  date:        "October 19th - 20st"
   location:    "Chicago, Illinois"
 
-  trust_badge:
-    year:   "2019"  # season year
-    region: "na"    # "na" or "eu"
-    color:  "blue" # "white", "black", "gray", "red", "blue" or "yellow"
+# trust_badge:
+#     year:   "2020"  # season year
+#     region: "na"    # "na" or "eu"
+#     color:  "blue" # "white", "black", "gray", "red", "blue" or "yellow"
+  #trust_badge:
+  #   year:   "2019"  # season year
+  #   region: "na"    # "na" or "eu"
+  #   color:  "blue" # "white", "black", "gray", "red", "blue" or "yellow"
   # trust_badge:
   #   year:   "2018"  # season year
   #   region: "na"    # "na" or "eu"
