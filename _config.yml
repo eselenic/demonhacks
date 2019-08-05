@@ -29,7 +29,7 @@ seo:
 event:
   name: "DemonHacks"
   description: >
-    Applications for DH Opening Soon!
+    Applications for DH are now open!
   date:        "October 19th - 20st"
   location:    "Chicago, Illinois"
 
@@ -49,7 +49,7 @@ event:
   hero:
     links:
      - text: "Apply"
-       href: "/#faq"
+       href: "https://cssdepaul.typeform.com/to/vHvHLN"
        id: "apply-btn"
 #        redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
      - text: "Sponsor"
@@ -65,7 +65,7 @@ event:
   faq:
     - question: "Are applications open?"
       answer: >
-        Applications are now closed. If you're a local student, feel free to come by as a walk-in. Chances are we'll be able to let you in! Email team@demonhacks.com with any concerns.
+        Applications are now open. Please click the "apply" button at the top of the page. If you're a local student, feel free to come by as a walk-in. Chances are we'll be able to let you in! Email team@demonhacks.com with any concerns.
     - question: "I'm a beginner; am I welcome?"
       answer: >
         Of course! Hackathons are a great place to learn new technologies, meet new people, 
@@ -124,35 +124,35 @@ event:
 
   # Schedule:
   schedule:
-    # - day: "Check back soon!!"
-    - day: "Saturday"
-      event: [
-      "9:00 am - 10:00 am - Check-In",
-      "9:00 am - 2:00 pm - Meet the Sponsors",
-      "10:00 am - 11:00 am - Breakfast",
-      "11:00 am - 11:30 am - Opening Ceremony",
-      "11:30 am - HACKING STARTS!",
-      "11:30 am - 12:30 pm - Team Forming Event",
-      "1:30 pm - 2:30 pm - Lunch",
-      "2:30 pm - 3:30 pm - Tech Talk or Workshop",
-      "6:30 pm - 7:30 pm - Dinner",
-      "8:00 pm - 9:00 pm - Cup Stacking!",
-      "10:00 pm - 11:00 pm - Tech Talk or Workshop",
-      "Midnight - Midnight Snack"
-      ]
-    - day: " Sunday"
-      event: [
-      "8:00 am - 10:00 am - Breakfast",
-      "10:00 am - 11:00 am - Tech Talk or Workshop",
-      "2:00 pm - 3:00 pm - Lunch",
-      "2:30 pm - HACKING ENDS!",
-      "3:30 pm - 4:30 pm Project Expo",
-      "5:00 pm - 5:30 pm - Closing Ceremony"]
+    - day: "Check back soon!!"
+    # - day: "Saturday"
+    #   event: [
+    #   "9:00 am - 10:00 am - Check-In",
+    #   "9:00 am - 2:00 pm - Meet the Sponsors",
+    #   "10:00 am - 11:00 am - Breakfast",
+    #   "11:00 am - 11:30 am - Opening Ceremony",
+    #   "11:30 am - HACKING STARTS!",
+    #   "11:30 am - 12:30 pm - Team Forming Event",
+    #   "1:30 pm - 2:30 pm - Lunch",
+    #   "2:30 pm - 3:30 pm - Tech Talk or Workshop",
+    #   "6:30 pm - 7:30 pm - Dinner",
+    #   "8:00 pm - 9:00 pm - Cup Stacking!",
+    #   "10:00 pm - 11:00 pm - Tech Talk or Workshop",
+    #   "Midnight - Midnight Snack"
+    #   ]
+    # - day: " Sunday"
+    #   event: [
+    #   "8:00 am - 10:00 am - Breakfast",
+    #   "10:00 am - 11:00 am - Tech Talk or Workshop",
+    #   "2:00 pm - 3:00 pm - Lunch",
+    #   "2:30 pm - HACKING ENDS!",
+    #   "3:30 pm - 4:30 pm Project Expo",
+    #   "5:00 pm - 5:30 pm - Closing Ceremony"]
 
 
   sponsors:
     message: >
-        Our current sponsors. More coming soon! <br/> If you're interested in sponsoring, please email us at sponsor@demonhacks.com.
+        Our previous sponsors. More coming soon. <br/> If you're interested in sponsoring, please email us at sponsor@demonhacks.com.
   # This is the message you'll receive once you've registered.
     already_sponsoring:
       - sponsor: "../images/JPMC-Logo-Black.png"
