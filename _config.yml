@@ -21,7 +21,7 @@ tracking:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "DemonHacks | October 2019 | DemonHacks2019 | DemonHacks2020"
+  title:       "DemonHacks | October 2019 | DemonHacks2019 | DemonHacks2019"
   description: "DemonHacks."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
@@ -39,10 +39,6 @@ event:
 #     color:  "blue" # "white", "black", "gray", "red", "blue" or "yellow"
   #trust_badge:
   #   year:   "2019"  # season year
-  #   region: "na"    # "na" or "eu"
-  #   color:  "blue" # "white", "black", "gray", "red", "blue" or "yellow"
-  # trust_badge:
-  #   year:   "2018"  # season year
   #   region: "na"    # "na" or "eu"
   #   color:  "blue" # "white", "black", "gray", "red", "blue" or "yellow"
 
