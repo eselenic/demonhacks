@@ -1,4 +1,4 @@
-# DemonHacks 2018 Site
+# DemonHacks 2019 Site
 
 Run Commands:
 `bundle install`
