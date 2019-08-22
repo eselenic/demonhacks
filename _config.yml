@@ -37,10 +37,6 @@ event:
 #     year:   "2020"  # season year
 #     region: "na"    # "na" or "eu"
 #     color:  "blue" # "white", "black", "gray", "red", "blue" or "yellow"
-  #trust_badge:
-  #   year:   "2019"  # season year
-  #   region: "na"    # "na" or "eu"
-  #   color:  "blue" # "white", "black", "gray", "red", "blue" or "yellow"
 
   hero:
     links:
@@ -87,10 +83,6 @@ event:
       answer: >
         Stay tuned. Minor gas or train reimbursement may be provided.
       # [Click Here to find out](https://goo.gl/w9TwfR)
-    - question: "What is Major League Hacking?"
-      answer: >
-        Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
-        We work with over 200 Member Events and empower over 70,000 students every year.
     - question: "Is there a Code of Conduct?"
       answer: >
         Yes there is, you can [find it here](https://docs.google.com/document/d/1PMGI1uPcY5EK_QNh1LPqMbNhTSasOldya0_Zo8P1MDU/mobilebasic?usp=gmail#heading=h.d11fprrgzyp).
