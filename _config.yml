@@ -111,7 +111,6 @@ event:
         Email us at [team@demonhacks.com](mailto:team@demonhacks.com).
 
   Schedule:
-  schedule:
     #- day: "Check back soon!!"
     - day: "Saturday"
       event: [
