@@ -112,7 +112,7 @@ event:
 
   Schedule:
     #- day: "Check back soon!!"
-    - day: "Saturday"
+    day: "Saturday",
       event: [
         "9:00am-12:00pm       Check-in",
         "9:00am-11:00am       Meet the Sponsors",
@@ -126,7 +126,7 @@ event:
         "11:00pm              Tech Talk"
 
       ],
-    - day: "Sunday"
+    day: "Sunday",
       event: [
         "12:00am              Midnight Snack",
         "1:00am               Paper Plane Tournament",
