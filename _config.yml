@@ -111,22 +111,22 @@ event:
         Email us at [team@demonhacks.com](mailto:team@demonhacks.com).
 
   Schedule:
-    #- day: "Check back soon!!"
-    - day: "Saturday"
-      event: [
-        "9:00am-12:00pm       Check-in",
-        "9:00am-11:00am       Meet the Sponsors",
-        "10:00am              Breakfast",
-        "11:00am              Opening Ceremony",
-        "11:30am              Teams building, Hacking begins",
-        "2:00pm               Lunch",
-        "4:00pm               Tech Talk",
-        "6:00pm               Dinner",
-        "8:00pm               Cup pong game",
-        "11:00pm              Tech Talk"
-      ]
-    - day: "Sunday"
-      event: >
+    day: "Check back soon!!"
+    day: "Saturday"
+    event: [
+      "9:00am-12:00pm       Check-in",
+      "9:00am-11:00am       Meet the Sponsors",
+      "10:00am              Breakfast",
+      "11:00am              Opening Ceremony",
+      "11:30am              Teams building, Hacking begins",
+      "2:00pm               Lunch",
+      "4:00pm               Tech Talk",
+      "6:00pm               Dinner",
+      "8:00pm               Cup pong game",
+      "11:00pm              Tech Talk"
+    ]
+    day: "Sunday"
+    event: >
         12:00am              Midnight Snack
         1:00am               Paper Plane Tournament
         9:00am               Tech Talk
