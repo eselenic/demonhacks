@@ -126,15 +126,15 @@ event:
         "11:00pm              Tech Talk"
       ]
     - day: "Sunday"
-      event: [
-        "12:00am              Midnight Snack",
-        "1:00am               Paper Plane Tournament",
-        "9:00am               Tech Talk",
-        "11:00am              Brunch ",
-        "11:30am              Hacking Ends",
-        "1:00-2:30pm          Project Expo",
-        "3:00pm               Closing Ceremony"
-      ]
+      event: >
+        12:00am              Midnight Snack
+        1:00am               Paper Plane Tournament
+        9:00am               Tech Talk
+        11:00am              Brunch
+        11:30am              Hacking Ends
+        1:00-2:30pm          Project Expo
+        3:00pm               Closing Ceremony
+      
 
 
   sponsors:
