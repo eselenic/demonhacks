@@ -110,9 +110,9 @@ event:
       answer: >
         Email us at [team@demonhacks.com](mailto:team@demonhacks.com).
 
-  Schedule:[
+  Schedule:
     #- day: "Check back soon!!"
-    day: "Saturday",
+    - day: "Saturday"
       event: [
         "9:00am-12:00pm       Check-in",
         "9:00am-11:00am       Meet the Sponsors",
@@ -124,9 +124,8 @@ event:
         "6:00pm               Dinner",
         "8:00pm               Cup pong game",
         "11:00pm              Tech Talk"
-
-      ],
-    day: "Sunday",
+      ]
+    - day: "Sunday"
       event: [
         "12:00am              Midnight Snack",
         "1:00am               Paper Plane Tournament",
@@ -136,7 +135,6 @@ event:
         "1:00-2:30pm          Project Expo",
         "3:00pm               Closing Ceremony"
       ]
-    ]
 
 
   sponsors:
