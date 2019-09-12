@@ -126,7 +126,7 @@ event:
         "11:00pm              Tech Talk"
 
       ]
-    - day: " Sunday"
+    - day: "Sunday"
       event: [
         "12:00am              Midnight Snack",
         "1:00am               Paper Plane Tournament",
