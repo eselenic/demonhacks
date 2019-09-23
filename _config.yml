@@ -128,7 +128,7 @@ event:
     - day: " Sunday"
       event: [
       "12:00 am - Midnight snack",
-      "1:00 am - Paper plane tournament"
+      "1:00 am - Paper plane tournament",
       "9:00 am - Tech talk",
       "11:00 am - Bunch",
       "11:30 am - HACKING ENDS",
