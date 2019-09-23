@@ -30,7 +30,7 @@ event:
   name: "DemonHacks"
   description: >
     Applications for DH are now open!
-  date:        "October 19th - 20st"
+  date:        "October 19th - 20th"
   location:    "Chicago, Illinois"
 
 # trust_badge:
@@ -130,7 +130,7 @@ event:
       "12:00 am - Midnight snack",
       "1:00 am - Paper plane tournament",
       "9:00 am - Tech talk",
-      "11:00 am - Bunch",
+      "11:00 am - Brunch",
       "11:30 am - HACKING ENDS",
       "1:00 pm - Project expo",
       "3:00 pm - Closing ceremony"]
