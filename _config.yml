@@ -145,7 +145,7 @@ event:
         sponsor_link: "https://www.jpmorganchase.com/"
         size: "col-xs-12 col-sm-10col-md-4 col-lg-4"
       - sponsor: "../images/Aquatic.png"
-        sponsor_link: "https://aquaticinformatics.com"
+        # sponsor_link: "https://aquaticinformatics.com"
         size: "img col-xs-3 col-md-3"
       # - sponsor: "../images/Discover.png"
       #   sponsor_link: "https://www.discover.com/"
