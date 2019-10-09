@@ -29,7 +29,7 @@ seo:
 event:
   name: "DemonHacks"
   description: >
-    Applications for DH are now open!
+    Applications for DH are closed at this time.
   date:        "October 19th - 20th"
   location:    "Chicago, Illinois"
 
@@ -39,14 +39,14 @@ event:
 #     color:  "blue" # "white", "black", "gray", "red", "blue" or "yellow"
 
   hero:
-    links:
-     - text: "Apply"
-       href: "https://cssdepaul.typeform.com/to/vHvHLN"
-       id: "apply-btn"
-#        redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
-     - text: "Sponsor"
-       href: "/#sponsors"
-       id: "sponsor-btn"
+#     links:
+#      - text: "Apply"
+#        href: "https://cssdepaul.typeform.com/to/vHvHLN"
+#        id: "apply-btn"
+# #        redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
+#      - text: "Sponsor"
+#        href: "/#sponsors"
+#        id: "sponsor-btn"
 
   about:
     description: >
@@ -57,7 +57,7 @@ event:
   faq:
     - question: "Are applications open?"
       answer: >
-        Applications are now open. Please click the "apply" button at the top of the page. If you're a local student, feel free to come by as a walk-in. Chances are we'll be able to let you in! Email team@demonhacks.com with any concerns.
+        Applications are now closed for 2019. Check back again next year!
     - question: "I'm a beginner; am I welcome?"
       answer: >
         Of course! Hackathons are a great place to learn new technologies, meet new people, 
@@ -171,11 +171,11 @@ event:
       # - sponsor: "../images/stickermule.png"
       #   sponsor_link: "https://www.stickermule.com/"
       #   size: "col-xs-12 col-sm-10col-md-4 col-lg-4"
-      - sponsor: "../images/ThoughtWorks.png"
-        sponsor_link: "https://www.thoughtworks.com"
-        size: "img col-xs-3 col-md-3"
       - sponsor: "../images/Donlen.png"
         sponsor_link: "https://www.donlen.com"
+        size: "img col-xs-3 col-md-3"
+      - sponsor: "../images/ThoughtWorks.png"
+        sponsor_link: "https://www.thoughtworks.com"
         size: "img col-xs-3 col-md-3"
       - sponsor: "../images/SafB.png"
         sponsor_link: "https://www.safb.com"
