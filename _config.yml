@@ -116,7 +116,7 @@ event:
       event: [
       "9:00 am - 12:00 pm - Check-in",
       "9:00 am - 11:00 am - Meet the sponsors",
-      "10:00 am - Breakfast",
+      "10:00 am - Breakfast + Walk-ins Check-in",
       "11:00 am - Opening ceremony",
       "11:30 am - HACKING BEGINS (+ team building)",
       "2:00 pm - Lunch",
@@ -129,10 +129,11 @@ event:
       event: [
       "12:00 am - Midnight snack",
       "1:00 am - Paper plane tournament",
+      "7:00 am - Breakfast",
       "9:00 am - Tech talk",
       "11:00 am - Brunch",
       "11:30 am - HACKING ENDS",
-      "1:00 pm - Project expo",
+      "12:30 pm - 2:00 pm - Project expo",
       "3:00 pm - Closing ceremony"]
 
 
