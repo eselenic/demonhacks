@@ -116,21 +116,22 @@ event:
       event: [
       "9:00 am - 12:00 pm - Check-in",
       "9:00 am - 11:00 am - Meet the sponsors",
-      "10:00 am - Breakfast + Walk-ins Check-in",
+      "10:00 am - Breakfast + Walk-ins check-in",
       "11:00 am - Opening ceremony",
       "11:30 am - HACKING BEGINS (+ team building)",
+      "1:00 pm - Tech talk (Git Better)"
       "2:00 pm - Lunch",
-      "4:00 pm - Tech talk",
-      "6:00 pm - Dinner",
-      "8:00 pm - Cup pong competition",
-      "11:00 pm - Tech talk"
+      "4:00 pm - Tech talk (Personal and Application Security)",
+      "6:30 pm - Dinner",
+      "9:00 pm - Cup stacking tournament",
+      "11:00 pm - Tech talk (ThoughtWorks)"
       ]
     - day: " Sunday"
       event: [
       "12:00 am - Midnight snack",
-      "1:00 am - Paper plane tournament",
+      "1:00 am - LipSync battle + giant games",
       "7:00 am - Breakfast",
-      "9:00 am - Tech talk",
+      "9:00 am - Paper plane tournament",
       "11:00 am - Brunch",
       "11:30 am - HACKING ENDS",
       "12:30 pm - 2:00 pm - Project expo",
